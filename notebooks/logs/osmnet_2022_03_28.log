@@ -1,0 +1,8 @@
+2022-03-28 10:13:51,511 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2022-03-28 10:13:51,511 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](37.69800000,-122.51700000,37.81900000,-122.35400000);>;);out;'}"
+2022-03-28 10:14:04,165 INFO osmnet Downloaded 27,408.9KB from www.overpass-api.de in 12.65 seconds
+2022-03-28 10:14:05,872 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 14.36 seconds
+2022-03-28 10:14:14,745 INFO osmnet Returning OSM data with 155,102 nodes and 39,926 ways...
+2022-03-28 10:15:50,281 INFO osmnet Edge node pairs completed. Took 95.54 seconds
+2022-03-28 10:15:50,480 INFO osmnet Returning processed graph with 49,550 nodes and 73,737 edges...
+2022-03-28 10:15:50,480 INFO osmnet Completed OSM data download and Pandana node and edge table creation in 119.13 seconds

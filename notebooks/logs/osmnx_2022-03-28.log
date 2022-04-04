@@ -1,0 +1,418 @@
+2022-03-28 10:31:48,370 INFO OSMnx Configured OSMnx 1.1.2
+2022-03-28 10:31:48,370 INFO OSMnx HTTP response caching is on
+2022-03-28 10:31:48,476 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:31:49,485 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Manhattan%2C+New+York%2C+New+York%2C+USA with timeout=180
+2022-03-28 10:31:49,489 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:31:49,797 INFO OSMnx Downloaded 171.1kB from nominatim.openstreetmap.org
+2022-03-28 10:31:49,869 INFO OSMnx Saved response to cache file "cache\bddc57dc89dd819f2997e2d1b8d89fa9c1b21757.json"
+2022-03-28 10:31:50,436 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:32:31,518 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:32:51,891 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:32:54,796 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:32:55,801 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Berkeley%2C+California%2C+USA with timeout=180
+2022-03-28 10:32:55,804 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:32:56,037 INFO OSMnx Downloaded 46.8kB from nominatim.openstreetmap.org
+2022-03-28 10:32:56,452 INFO OSMnx Saved response to cache file "cache\338760ce6de2d9f756c2921e84638b1c8e86fbc1.json"
+2022-03-28 10:32:56,485 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:32:57,499 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Oakland%2C+California%2C+USA with timeout=180
+2022-03-28 10:32:57,506 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:32:57,710 INFO OSMnx Downloaded 33.9kB from nominatim.openstreetmap.org
+2022-03-28 10:32:57,725 INFO OSMnx Saved response to cache file "cache\70cc0fa5839a53dd9e5f7c7f0407a94e9b62cb9d.json"
+2022-03-28 10:32:57,819 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:32:58,833 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Piedmont%2C+California%2C+USA with timeout=180
+2022-03-28 10:32:58,844 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:32:59,029 INFO OSMnx Downloaded 9.5kB from nominatim.openstreetmap.org
+2022-03-28 10:32:59,034 INFO OSMnx Saved response to cache file "cache\c17ad8d303536745d4004e8b587ba39427593e08.json"
+2022-03-28 10:32:59,108 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:33:00,116 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Emeryville%2C+California%2C+USA with timeout=180
+2022-03-28 10:33:00,137 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:33:00,373 INFO OSMnx Downloaded 8.5kB from nominatim.openstreetmap.org
+2022-03-28 10:33:00,376 INFO OSMnx Saved response to cache file "cache\9eac89ab47e7dcbbeb9be97fa5d08af1edbfd980.json"
+2022-03-28 10:33:00,477 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:33:01,481 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Alameda%2C+Alameda+County%2C+CA%2C+USA with timeout=180
+2022-03-28 10:33:01,487 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:33:01,924 INFO OSMnx Downloaded 3.6kB from nominatim.openstreetmap.org
+2022-03-28 10:33:01,931 INFO OSMnx Saved response to cache file "cache\e00ec4d07af74d44d09074088618d44c86c68161.json"
+2022-03-28 10:33:02,034 INFO OSMnx Created GeoDataFrame with 5 rows from 5 queries
+2022-03-28 10:33:02,202 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:34:35,888 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:34:36,897 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Shanghai%2C+China with timeout=180
+2022-03-28 10:34:36,910 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:34:37,276 INFO OSMnx Downloaded 171.3kB from nominatim.openstreetmap.org
+2022-03-28 10:34:37,337 INFO OSMnx Saved response to cache file "cache\4c4703be134ea0f311b5af3186119919b74731b6.json"
+2022-03-28 10:34:37,461 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:34:37,617 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=51 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:34:59,671 INFO OSMnx Retrieved response from cache file "cache\4c4703be134ea0f311b5af3186119919b74731b6.json"
+2022-03-28 10:34:59,712 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:35:00,720 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Beijing%2C+China with timeout=180
+2022-03-28 10:35:00,723 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:35:01,021 INFO OSMnx Downloaded 113.5kB from nominatim.openstreetmap.org
+2022-03-28 10:35:01,076 INFO OSMnx Saved response to cache file "cache\c3bf688c50d1ce39194b9a77ba6801319b5c57f5.json"
+2022-03-28 10:35:01,179 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:35:02,186 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Tokyo%2C+Japan with timeout=180
+2022-03-28 10:35:02,188 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:35:02,916 INFO OSMnx Downloaded 770.2kB from nominatim.openstreetmap.org
+2022-03-28 10:35:03,220 INFO OSMnx Saved response to cache file "cache\5aa8b2f4ae50825646286e15d51ec81886f5a4f9.json"
+2022-03-28 10:35:03,345 INFO OSMnx Created GeoDataFrame with 3 rows from 3 queries
+2022-03-28 10:35:03,571 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=51 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:35:27,279 INFO OSMnx Retrieved response from cache file "cache\5aa8b2f4ae50825646286e15d51ec81886f5a4f9.json"
+2022-03-28 10:35:27,327 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:35:27,427 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=54 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:35:37,454 INFO OSMnx Retrieved response from cache file "cache\4c4703be134ea0f311b5af3186119919b74731b6.json"
+2022-03-28 10:35:37,507 INFO OSMnx Retrieved response from cache file "cache\c3bf688c50d1ce39194b9a77ba6801319b5c57f5.json"
+2022-03-28 10:35:37,554 INFO OSMnx Created GeoDataFrame with 2 rows from 2 queries
+2022-03-28 10:35:37,668 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=50 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:36:48,098 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:36:49,114 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Ithaca%2C+NY%2C+USA with timeout=180
+2022-03-28 10:36:49,117 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:36:49,295 INFO OSMnx Downloaded 10.0kB from nominatim.openstreetmap.org
+2022-03-28 10:36:49,306 INFO OSMnx Saved response to cache file "cache\e70cb3ce3b302faeed2e7e7fa4b4edd05f17e5dd.json"
+2022-03-28 10:36:49,437 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:36:49,597 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:37:03,825 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:37:04,838 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Ithaca%2C+New+York%2C+USA with timeout=180
+2022-03-28 10:37:04,843 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:37:05,111 INFO OSMnx Downloaded 10.0kB from nominatim.openstreetmap.org
+2022-03-28 10:37:05,117 INFO OSMnx Saved response to cache file "cache\4774c7a7f1cd4cb8e6b8b0419537a5328b1ac99e.json"
+2022-03-28 10:37:05,212 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:37:05,326 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:37:22,431 INFO OSMnx Retrieved response from cache file "cache\4774c7a7f1cd4cb8e6b8b0419537a5328b1ac99e.json"
+2022-03-28 10:37:22,474 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:37:23,480 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=New+York+City%2C+New+York%2C+USA with timeout=180
+2022-03-28 10:37:23,485 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:37:23,708 INFO OSMnx Downloaded 29.4kB from nominatim.openstreetmap.org
+2022-03-28 10:37:23,714 INFO OSMnx Saved response to cache file "cache\2d28b6871fe11cce27855ef459fcad758a747a83.json"
+2022-03-28 10:37:23,815 INFO OSMnx Created GeoDataFrame with 2 rows from 2 queries
+2022-03-28 10:37:23,932 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:37:48,165 INFO OSMnx Retrieved response from cache file "cache\4774c7a7f1cd4cb8e6b8b0419537a5328b1ac99e.json"
+2022-03-28 10:37:48,210 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2022-03-28 10:37:49,216 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Syracuse%2C+New+York%2C+USA with timeout=180
+2022-03-28 10:37:49,224 INFO OSMnx Resolved nominatim.openstreetmap.org to 140.211.167.100
+2022-03-28 10:37:49,410 INFO OSMnx Downloaded 9.0kB from nominatim.openstreetmap.org
+2022-03-28 10:37:49,419 INFO OSMnx Saved response to cache file "cache\4939f069cc03e4a2bd42633ce4cd4481aa11dccb.json"
+2022-03-28 10:37:49,504 INFO OSMnx Retrieved response from cache file "cache\2d28b6871fe11cce27855ef459fcad758a747a83.json"
+2022-03-28 10:37:49,585 INFO OSMnx Created GeoDataFrame with 3 rows from 3 queries
+2022-03-28 10:37:49,703 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:38:07,948 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:38:07,981 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:38:08,024 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:38:08,058 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:38:08,059 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:38:08,075 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:38:09,128 INFO OSMnx Pausing 0 seconds before making HTTP POST request
+2022-03-28 10:38:09,128 INFO OSMnx Post https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22access%22%21~%22private%22%5D%5B%22highway%22%21~%22abandoned%7Cbridleway%7Cbus_guideway%7Cconstruction%7Ccorridor%7Ccycleway%7Celevator%7Cescalator%7Cfootway%7Cpath%7Cpedestrian%7Cplanned%7Cplatform%7Cproposed%7Craceway%7Cservice%7Csteps%7Ctrack%22%5D%5B%22motor_vehicle%22%21~%22no%22%5D%5B%22motorcar%22%21~%22no%22%5D%5B%22service%22%21~%22alley%7Cdriveway%7Cemergency_access%7Cparking%7Cparking_aisle%7Cprivate%22%5D%28poly%3A%2737.780000+-122.435678+37.790000+-122.435679+37.790442+-122.435651+37.790879+-122.435570+37.791308+-122.435434+37.791724+-122.435247+37.792124+-122.435008+37.792503+-122.434722+37.792859+-122.434390+37.793186+-122.434016+37.793483+-122.433603+37.793747+-122.433155+37.793974+-122.432677+37.794163+-122.432174+37.794312+-122.431649+37.794420+-122.431108+37.794485+-122.430557+37.794506+-122.430001+37.794506+-122.409999+37.794485+-122.409443+37.794420+-122.408892+37.794312+-122.408351+37.794163+-122.407826+37.793974+-122.407323+37.793747+-122.406845+37.793483+-122.406397+37.793186+-122.405984+37.792859+-122.405610+37.792503+-122.405278+37.792124+-122.404992+37.791724+-122.404753+37.791308+-122.404566+37.790879+-122.404430+37.790442+-122.404349+37.790000+-122.404321+37.780000+-122.404322+37.779558+-122.404350+37.779121+-122.404431+37.778692+-122.404567+37.778275+-122.404755+37.777875+-122.404993+37.777496+-122.405279+37.777141+-122.405611+37.776813+-122.405986+37.776516+-122.406398+37.776253+-122.406846+37.776025+-122.407324+37.775836+-122.407828+37.775687+-122.408352+37.775580+-122.408893+37.775515+-122.409444+37.775494+-122.410001+37.775494+-122.429999+37.775515+-122.430556+37.775580+-122.431107+37.775687+-122.431648+37.775836+-122.432172+37.776025+-122.432676+37.776253+-122.433154+37.776516+-122.433602+37.776813+-122.434014+37.777141+-122.434389+37.777496+-122.434721+37.777875+-122.435007+37.778275+-122.435245+37.778692+-122.435433+37.779121+-122.435569+37.779558+-122.435650+37.780000+-122.435678%27%29%3B%3E%3B%29%3Bout%3B with timeout=180
+2022-03-28 10:38:09,147 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:38:14,762 INFO OSMnx Downloaded 898.6kB from overpass-api.de
+2022-03-28 10:38:14,873 INFO OSMnx Saved response to cache file "cache\b4fe2410e65ac3861d0e39407fda5acea87b7461.json"
+2022-03-28 10:38:14,873 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:38:14,873 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:38:15,022 INFO OSMnx Created graph with 3254 nodes and 5160 edges
+2022-03-28 10:38:15,140 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:38:15,140 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:38:15,856 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:38:16,120 INFO OSMnx Created r-tree spatial index for 3254 geometries
+2022-03-28 10:38:16,287 INFO OSMnx Identified 2855 geometries inside polygon
+2022-03-28 10:38:16,356 INFO OSMnx Removed 399 nodes outside polygon
+2022-03-28 10:38:16,356 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:38:16,387 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:38:16,504 INFO OSMnx Identified 537 edge endpoints
+2022-03-28 10:38:17,089 INFO OSMnx Simplified graph: 2855 to 537 nodes, 4508 to 1236 edges
+2022-03-28 10:38:17,103 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:38:17,170 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:38:17,238 INFO OSMnx Created r-tree spatial index for 537 geometries
+2022-03-28 10:38:17,272 INFO OSMnx Identified 150 geometries inside polygon
+2022-03-28 10:38:17,307 INFO OSMnx Removed 387 nodes outside polygon
+2022-03-28 10:38:17,319 INFO OSMnx Removed 1 isolated nodes
+2022-03-28 10:38:17,322 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:38:17,356 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:38:17,359 INFO OSMnx graph_from_polygon returned graph with 149 nodes and 319 edges
+2022-03-28 10:38:17,376 INFO OSMnx graph_from_bbox returned graph with 149 nodes and 319 edges
+2022-03-28 10:38:17,410 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:38:17,520 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:38:17,626 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:38:17,772 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:38:17,822 INFO OSMnx Created graph from node/edge GeoDataFrames
+2022-03-28 10:38:17,822 INFO OSMnx Projected graph with 149 nodes and 319 edges
+2022-03-28 10:38:17,827 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:38:17,929 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:38:18,189 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:38:18,363 INFO OSMnx Finished plotting the graph
+2022-03-28 10:39:06,036 INFO OSMnx Retrieved response from cache file "cache\c17ad8d303536745d4004e8b587ba39427593e08.json"
+2022-03-28 10:39:06,114 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:39:06,117 INFO OSMnx Constructed place geometry polygon(s) to query API
+2022-03-28 10:39:06,180 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:39:06,246 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:39:06,302 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:39:06,348 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:39:06,363 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:39:06,367 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:39:07,395 INFO OSMnx Pausing 0 seconds before making HTTP POST request
+2022-03-28 10:39:07,396 INFO OSMnx Post https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22highway%22%21~%22abandoned%7Cconstruction%7Cplanned%7Cplatform%7Cproposed%7Craceway%22%5D%28poly%3A%2737.823113+-122.255010+37.823199+-122.255027+37.823651+-122.255055+37.824104+-122.255026+37.824552+-122.254940+37.824991+-122.254797+37.825417+-122.254600+37.825824+-122.254350+37.826210+-122.254049+37.826569+-122.253701+37.826799+-122.253455+37.826915+-122.253330+37.827176+-122.253244+37.827377+-122.253178+37.827800+-122.253010+37.828208+-122.252791+37.828597+-122.252523+37.828964+-122.252207+37.829303+-122.251848+37.829613+-122.251448+37.829891+-122.251012+37.830143+-122.250573+37.830803+-122.249429+37.830839+-122.249407+37.831197+-122.249128+37.831286+-122.249052+37.832123+-122.248407+37.832393+-122.248200+37.832408+-122.248188+37.832448+-122.248157+37.832806+-122.247849+37.833139+-122.247498+37.833444+-122.247109+37.833717+-122.246685+37.833957+-122.246229+37.834162+-122.245747+37.834328+-122.245241+37.834455+-122.244718+37.834542+-122.244183+37.834587+-122.243639+37.834589+-122.243372+37.834678+-122.243039+37.834731+-122.242827+37.834764+-122.242685+37.834890+-122.241972+37.834909+-122.241820+37.834955+-122.241306+37.834963+-122.241152+37.834972+-122.240864+37.834984+-122.239854+37.834988+-122.239743+37.835013+-122.239561+37.835040+-122.239289+37.835061+-122.239227+37.835189+-122.238722+37.835278+-122.238205+37.835314+-122.237839+37.835348+-122.237717+37.835448+-122.237227+37.835481+-122.237028+37.835520+-122.236796+37.835555+-122.236603+37.835691+-122.235869+37.835737+-122.235620+37.835738+-122.235611+37.835971+-122.234342+37.836041+-122.233967+37.836454+-122.232630+37.836562+-122.232282+37.836840+-122.231384+37.837223+-122.230148+37.837363+-122.229621+37.837462+-122.229079+37.837518+-122.228527+37.837531+-122.227970+37.837501+-122.227415+37.837429+-122.226866+37.837313+-122.226329+37.837157+-122.225809+37.836961+-122.225310+37.836727+-122.224838+37.836458+-122.224397+37.836321+-122.224194+37.835909+-122.223581+37.835902+-122.223571+37.835860+-122.223509+37.835655+-122.223085+37.835595+-122.222985+37.835586+-122.222968+37.835578+-122.222952+37.835434+-122.222684+37.835429+-122.222676+37.835381+-122.222587+37.835374+-122.222573+37.835322+-122.222478+37.835298+-122.222434+37.835063+-122.221995+37.835055+-122.221980+37.834974+-122.221830+37.834716+-122.221399+37.834427+-122.221000+37.834110+-122.220638+37.833766+-122.220315+37.833400+-122.220035+37.833015+-122.219801+37.832810+-122.219691+37.832272+-122.219402+37.831977+-122.219183+37.831614+-122.218915+37.830654+-122.218095+37.830647+-122.218088+37.830591+-122.218041+37.830515+-122.217976+37.830496+-122.217959+37.830412+-122.217887+37.830144+-122.217659+37.829807+-122.217396+37.829733+-122.217344+37.829631+-122.217281+37.829503+-122.217182+37.829430+-122.217131+37.828987+-122.216860+37.828701+-122.216709+37.828662+-122.216688+37.828379+-122.216543+37.827516+-122.215453+37.827432+-122.215347+37.827198+-122.215051+37.827190+-122.215041+37.827029+-122.214674+37.826870+-122.214305+37.826798+-122.214155+37.826740+-122.214040+37.826711+-122.213957+37.826644+-122.213786+37.826416+-122.213272+37.826146+-122.212791+37.825839+-122.212347+37.825749+-122.212230+37.825389+-122.211810+37.825007+-122.211454+37.825005+-122.211449+37.824892+-122.211240+37.824758+-122.211006+37.824502+-122.210581+37.823733+-122.209301+37.823648+-122.209175+37.823573+-122.209040+37.823492+-122.208894+37.823215+-122.208389+37.823146+-122.208264+37.823031+-122.208047+37.822619+-122.207266+37.822482+-122.207006+37.822225+-122.206566+37.821937+-122.206159+37.821618+-122.205789+37.821273+-122.205460+37.820904+-122.205174+37.820515+-122.204933+37.820110+-122.204741+37.819692+-122.204599+37.819265+-122.204508+37.818833+-122.204469+37.818400+-122.204482+37.817970+-122.204548+37.817547+-122.204666+37.817135+-122.204834+37.816738+-122.205051+37.816359+-122.205316+37.816002+-122.205625+37.815670+-122.205975+37.815367+-122.206365+37.814959+-122.206941+37.814930+-122.206982+37.814675+-122.207349+37.814481+-122.207381+37.814339+-122.207410+37.814177+-122.207447+37.814030+-122.207484+37.813634+-122.207607+37.813500+-122.207657+37.812918+-122.207931+37.812911+-122.207935+37.812827+-122.207984+37.812691+-122.208066+37.812132+-122.208467+37.811978+-122.208597+37.811966+-122.208603+37.811575+-122.208821+37.811483+-122.208879+37.811239+-122.209045+37.811213+-122.209064+37.811191+-122.209080+37.811159+-122.209104+37.811136+-122.209120+37.810777+-122.209410+37.810730+-122.209452+37.810345+-122.209837+37.810210+-122.209988+37.810035+-122.210195+37.809941+-122.210312+37.809922+-122.210337+37.809674+-122.210537+37.809327+-122.210879+37.809009+-122.211262+37.808722+-122.211682+37.808469+-122.212135+37.808252+-122.212618+37.808073+-122.213125+37.807935+-122.213651+37.807838+-122.214192+37.807783+-122.214742+37.807771+-122.215296+37.807802+-122.215849+37.807875+-122.216396+37.807991+-122.216931+37.808147+-122.217449+37.808240+-122.217718+37.808412+-122.218216+37.808499+-122.218428+37.808535+-122.218647+37.808536+-122.218646+37.808586+-122.218943+37.808619+-122.219109+37.808647+-122.219244+37.808740+-122.219662+37.808776+-122.219850+37.809087+-122.221225+37.809106+-122.221298+37.809181+-122.221649+37.809265+-122.221991+37.809318+-122.222187+37.809322+-122.222205+37.809389+-122.222450+37.809446+-122.222678+37.809566+-122.223440+37.809569+-122.223463+37.809617+-122.223762+37.809705+-122.224211+37.809768+-122.224486+37.809957+-122.225311+37.809961+-122.225329+37.810025+-122.225605+37.810110+-122.225936+37.810180+-122.226181+37.810184+-122.226195+37.810396+-122.226930+37.810412+-122.226982+37.810520+-122.227465+37.810522+-122.227472+37.810980+-122.229494+37.811104+-122.230040+37.811143+-122.230250+37.811185+-122.230460+37.811258+-122.230791+37.811688+-122.232912+37.811690+-122.232921+37.811838+-122.233645+37.812030+-122.234375+37.812098+-122.234585+37.812105+-122.234606+37.812310+-122.235233+37.812335+-122.235308+37.812365+-122.235416+37.812513+-122.235963+37.812569+-122.236157+37.812624+-122.236335+37.812672+-122.236504+37.812695+-122.236590+37.812699+-122.236606+37.812766+-122.236853+37.812871+-122.237407+37.812918+-122.237961+37.812919+-122.237980+37.812939+-122.238210+37.813006+-122.238743+37.813113+-122.239267+37.813198+-122.239611+37.813451+-122.240643+37.813454+-122.240655+37.813499+-122.240838+37.813517+-122.240934+37.813670+-122.241713+37.813721+-122.241973+37.813767+-122.242187+37.813858+-122.242584+37.814131+-122.243775+37.814134+-122.243787+37.814226+-122.244185+37.814278+-122.244395+37.814318+-122.244546+37.814438+-122.244999+37.814453+-122.245050+37.814580+-122.245495+37.814634+-122.245662+37.814641+-122.245685+37.814797+-122.246160+37.814803+-122.246192+37.814849+-122.246421+37.814970+-122.246925+37.815128+-122.247413+37.815321+-122.247881+37.815547+-122.248324+37.815805+-122.248739+37.816092+-122.249121+37.816171+-122.249217+37.816316+-122.249386+37.816481+-122.249570+37.816608+-122.249705+37.816727+-122.249828+37.816858+-122.249983+37.816976+-122.250117+37.817113+-122.250268+37.817343+-122.250506+37.817479+-122.250637+37.818026+-122.251088+37.818110+-122.251147+37.818393+-122.251471+37.818403+-122.251482+37.818668+-122.251851+37.819597+-122.253146+37.819902+-122.253532+37.820234+-122.253880+37.820592+-122.254186+37.820972+-122.254447+37.821369+-122.254661+37.821781+-122.254826+37.822203+-122.254941+37.822633+-122.255004+37.823065+-122.255015+37.823113+-122.255010%27%29%3B%3E%3B%29%3Bout%3B with timeout=180
+2022-03-28 10:39:07,400 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:39:27,463 INFO OSMnx Downloaded 1,498.8kB from overpass-api.de
+2022-03-28 10:39:27,603 INFO OSMnx Saved response to cache file "cache\5feebdbd65e7e14c37048bddb64f4237e9a5f0c4.json"
+2022-03-28 10:39:27,603 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:39:27,603 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:39:28,419 INFO OSMnx Created graph with 10881 nodes and 22500 edges
+2022-03-28 10:39:28,816 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:39:28,819 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:39:29,968 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:39:31,014 INFO OSMnx Created r-tree spatial index for 10881 geometries
+2022-03-28 10:39:31,752 INFO OSMnx Identified 9875 geometries inside polygon
+2022-03-28 10:39:32,465 INFO OSMnx Removed 1006 nodes outside polygon
+2022-03-28 10:39:32,465 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:39:32,583 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:39:33,164 INFO OSMnx Identified 2075 edge endpoints
+2022-03-28 10:39:35,299 INFO OSMnx Simplified graph: 9875 to 2075 nodes, 20433 to 5456 edges
+2022-03-28 10:39:35,310 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:39:35,503 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:39:35,717 INFO OSMnx Created r-tree spatial index for 2075 geometries
+2022-03-28 10:39:35,864 INFO OSMnx Identified 754 geometries inside polygon
+2022-03-28 10:39:35,964 INFO OSMnx Removed 1321 nodes outside polygon
+2022-03-28 10:39:35,998 INFO OSMnx Removed 3 isolated nodes
+2022-03-28 10:39:36,635 INFO OSMnx Got largest weakly connected component (747 of 751 total nodes)
+2022-03-28 10:39:36,638 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:39:36,784 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:39:36,799 INFO OSMnx graph_from_polygon returned graph with 747 nodes and 1974 edges
+2022-03-28 10:39:36,872 INFO OSMnx graph_from_place returned graph with 747 nodes and 1974 edges
+2022-03-28 10:39:37,015 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:39:37,439 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:39:38,066 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:39:38,432 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:39:38,680 INFO OSMnx Created graph from node/edge GeoDataFrames
+2022-03-28 10:39:38,694 INFO OSMnx Projected graph with 747 nodes and 1974 edges
+2022-03-28 10:39:38,713 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:39:38,970 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:39:39,400 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:39:40,127 INFO OSMnx Finished plotting the graph
+2022-03-28 10:39:41,128 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:39:41,336 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:39:41,768 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:39:42,183 INFO OSMnx Finished plotting the graph
+2022-03-28 10:40:33,585 INFO OSMnx Created bbox 500 m from (37.791427, -122.410018): 37.795923601677465,37.78693039832253,-122.40432787612507,-122.41570812387492
+2022-03-28 10:40:33,617 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:40:33,653 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:40:33,685 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:40:33,717 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:40:33,721 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:40:33,723 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:40:34,741 INFO OSMnx Pausing 0 seconds before making HTTP POST request
+2022-03-28 10:40:34,743 INFO OSMnx Post https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22access%22%21~%22private%22%5D%5B%22highway%22%21~%22abandoned%7Cbus_guideway%7Cconstruction%7Ccycleway%7Cmotor%7Cplanned%7Cplatform%7Cproposed%7Craceway%22%5D%5B%22foot%22%21~%22no%22%5D%5B%22service%22%21~%22private%22%5D%28poly%3A%2737.786930+-122.421386+37.795923+-122.421387+37.796365+-122.421360+37.796803+-122.421278+37.797232+-122.421143+37.797648+-122.420955+37.798048+-122.420717+37.798427+-122.420430+37.798782+-122.420098+37.799110+-122.419724+37.799407+-122.419311+37.799670+-122.418864+37.799898+-122.418386+37.800087+-122.417882+37.800236+-122.417357+37.800343+-122.416816+37.800408+-122.416265+37.800430+-122.415708+37.800430+-122.404328+37.800408+-122.403771+37.800343+-122.403220+37.800236+-122.402679+37.800087+-122.402154+37.799898+-122.401650+37.799670+-122.401172+37.799407+-122.400725+37.799110+-122.400312+37.798782+-122.399938+37.798427+-122.399606+37.798048+-122.399319+37.797648+-122.399081+37.797232+-122.398893+37.796803+-122.398758+37.796365+-122.398676+37.795923+-122.398649+37.786930+-122.398650+37.786489+-122.398677+37.786051+-122.398759+37.785622+-122.398894+37.785206+-122.399082+37.784806+-122.399320+37.784427+-122.399607+37.784071+-122.399939+37.783744+-122.400313+37.783447+-122.400726+37.783183+-122.401173+37.782956+-122.401651+37.782767+-122.402155+37.782618+-122.402680+37.782510+-122.403220+37.782446+-122.403772+37.782424+-122.404328+37.782424+-122.415708+37.782446+-122.416264+37.782510+-122.416816+37.782618+-122.417356+37.782767+-122.417881+37.782956+-122.418385+37.783183+-122.418863+37.783447+-122.419310+37.783744+-122.419723+37.784071+-122.420097+37.784427+-122.420429+37.784806+-122.420716+37.785206+-122.420954+37.785622+-122.421142+37.786051+-122.421277+37.786489+-122.421359+37.786930+-122.421386%27%29%3B%3E%3B%29%3Bout%3B with timeout=180
+2022-03-28 10:40:34,756 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:40:39,463 INFO OSMnx Downloaded 1,459.8kB from overpass-api.de
+2022-03-28 10:40:39,648 INFO OSMnx Saved response to cache file "cache\b8fda4e1a4cbb61c364e14c07beb4cd52cdfdbfc.json"
+2022-03-28 10:40:39,650 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:40:39,651 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:40:40,049 INFO OSMnx Created graph with 6106 nodes and 15420 edges
+2022-03-28 10:40:40,347 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:40:40,349 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:40:41,200 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:40:41,603 INFO OSMnx Created r-tree spatial index for 6106 geometries
+2022-03-28 10:40:41,831 INFO OSMnx Identified 5563 geometries inside polygon
+2022-03-28 10:40:42,045 INFO OSMnx Removed 543 nodes outside polygon
+2022-03-28 10:40:42,046 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:40:42,130 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:40:42,497 INFO OSMnx Identified 2804 edge endpoints
+2022-03-28 10:40:43,880 INFO OSMnx Simplified graph: 5563 to 2804 nodes, 14250 to 8732 edges
+2022-03-28 10:40:43,884 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:40:44,095 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:40:44,330 INFO OSMnx Created r-tree spatial index for 2804 geometries
+2022-03-28 10:40:44,362 INFO OSMnx Identified 741 geometries inside polygon
+2022-03-28 10:40:44,495 INFO OSMnx Removed 2063 nodes outside polygon
+2022-03-28 10:40:44,546 INFO OSMnx Removed 4 isolated nodes
+2022-03-28 10:40:44,680 INFO OSMnx Got largest weakly connected component (727 of 737 total nodes)
+2022-03-28 10:40:44,682 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:40:44,818 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:40:44,828 INFO OSMnx graph_from_polygon returned graph with 727 nodes and 2344 edges
+2022-03-28 10:40:44,862 INFO OSMnx graph_from_bbox returned graph with 727 nodes and 2344 edges
+2022-03-28 10:40:44,871 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:40:44,928 INFO OSMnx Removed 0 isolated nodes
+2022-03-28 10:40:44,938 INFO OSMnx Truncated graph by length-weighted network distance
+2022-03-28 10:40:44,945 INFO OSMnx graph_from_point returned graph with 391 nodes and 1214 edges
+2022-03-28 10:40:44,983 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:40:45,112 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:40:45,372 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:40:45,478 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:40:45,559 INFO OSMnx Created graph from node/edge GeoDataFrames
+2022-03-28 10:40:45,561 INFO OSMnx Projected graph with 391 nodes and 1214 edges
+2022-03-28 10:40:45,578 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:40:45,695 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:40:45,950 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:40:46,211 INFO OSMnx Finished plotting the graph
+2022-03-28 10:42:10,434 INFO OSMnx Retrieved response from cache file "cache\c17ad8d303536745d4004e8b587ba39427593e08.json"
+2022-03-28 10:42:10,476 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:42:10,481 INFO OSMnx Constructed place geometry polygon(s) to query API
+2022-03-28 10:42:10,518 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:42:10,552 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:42:10,600 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:42:10,638 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:42:10,653 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:42:10,754 INFO OSMnx Retrieved response from cache file "cache\5feebdbd65e7e14c37048bddb64f4237e9a5f0c4.json"
+2022-03-28 10:42:10,754 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:42:10,758 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:42:11,165 INFO OSMnx Created graph with 10881 nodes and 22500 edges
+2022-03-28 10:42:11,784 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:42:11,794 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:42:13,183 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:42:14,167 INFO OSMnx Created r-tree spatial index for 10881 geometries
+2022-03-28 10:42:15,014 INFO OSMnx Identified 9875 geometries inside polygon
+2022-03-28 10:42:15,615 INFO OSMnx Removed 1006 nodes outside polygon
+2022-03-28 10:42:15,615 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:42:15,700 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:42:16,303 INFO OSMnx Identified 2075 edge endpoints
+2022-03-28 10:42:18,698 INFO OSMnx Simplified graph: 9875 to 2075 nodes, 20433 to 5456 edges
+2022-03-28 10:42:18,713 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:42:18,873 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:42:18,964 INFO OSMnx Created r-tree spatial index for 2075 geometries
+2022-03-28 10:42:19,048 INFO OSMnx Identified 754 geometries inside polygon
+2022-03-28 10:42:19,097 INFO OSMnx Removed 1321 nodes outside polygon
+2022-03-28 10:42:19,131 INFO OSMnx Removed 3 isolated nodes
+2022-03-28 10:42:19,213 INFO OSMnx Got largest weakly connected component (747 of 751 total nodes)
+2022-03-28 10:42:19,220 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:42:19,320 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:42:19,325 INFO OSMnx graph_from_polygon returned graph with 747 nodes and 1974 edges
+2022-03-28 10:42:19,348 INFO OSMnx graph_from_place returned graph with 747 nodes and 1974 edges
+2022-03-28 10:42:19,445 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:42:19,681 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:42:20,031 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:42:20,388 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:42:20,604 INFO OSMnx Created graph from node/edge GeoDataFrames
+2022-03-28 10:42:20,607 INFO OSMnx Projected graph with 747 nodes and 1974 edges
+2022-03-28 10:42:20,647 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:42:20,934 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:42:21,280 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:42:21,727 INFO OSMnx Finished plotting the graph
+2022-03-28 10:42:22,947 INFO OSMnx Retrieved response from cache file "cache\4774c7a7f1cd4cb8e6b8b0419537a5328b1ac99e.json"
+2022-03-28 10:42:22,989 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:42:22,990 INFO OSMnx Constructed place geometry polygon(s) to query API
+2022-03-28 10:42:23,026 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:42:23,068 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:42:23,096 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:42:23,128 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:42:23,139 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:42:23,144 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:42:24,133 INFO OSMnx Pausing 0 seconds before making HTTP POST request
+2022-03-28 10:42:24,134 INFO OSMnx Post https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22highway%22%21~%22abandoned%7Cconstruction%7Cplanned%7Cplatform%7Cproposed%7Craceway%22%5D%28poly%3A%2742.484200+-76.573072+42.484203+-76.572459+42.484471+-76.563452+42.484473+-76.563370+42.484484+-76.562814+42.484497+-76.562161+42.484499+-76.561969+42.484495+-76.560975+42.485261+-76.535064+42.485663+-76.521483+42.485658+-76.520874+42.485608+-76.520269+42.485514+-76.519674+42.485376+-76.519094+42.485196+-76.518536+42.484976+-76.518004+42.484717+-76.517506+42.484423+-76.517045+42.484096+-76.516625+42.483740+-76.516252+42.483358+-76.515930+42.482954+-76.515660+42.482532+-76.515446+42.481554+-76.515025+42.481668+-76.511225+42.481671+-76.511110+42.481729+-76.507502+42.481784+-76.506284+42.481787+-76.506210+42.481812+-76.505517+42.482018+-76.499973+42.482021+-76.499901+42.482080+-76.497827+42.482327+-76.491020+42.482329+-76.490955+42.482579+-76.482069+42.482757+-76.476437+42.482879+-76.473214+42.482882+-76.473113+42.483098+-76.464673+42.483099+-76.464642+42.483400+-76.450768+42.483392+-76.450173+42.483340+-76.449581+42.483246+-76.449000+42.483110+-76.448434+42.482933+-76.447888+42.482719+-76.447368+42.482467+-76.446879+42.482182+-76.446426+42.481865+-76.446012+42.481519+-76.445643+42.481149+-76.445321+42.480757+-76.445049+42.480347+-76.444830+42.479923+-76.444667+42.479490+-76.444560+42.479050+-76.444511+42.472943+-76.444236+42.472910+-76.444235+42.470151+-76.444138+42.468909+-76.444067+42.468806+-76.444063+42.467638+-76.444032+42.460792+-76.443642+42.460737+-76.443639+42.455880+-76.443442+42.452331+-76.443298+42.451273+-76.443242+42.450881+-76.443245+42.450600+-76.443279+42.447177+-76.442984+42.447059+-76.442976+42.444911+-76.442868+42.443821+-76.442778+42.443724+-76.442771+42.442131+-76.442686+42.442010+-76.442682+42.441119+-76.442667+42.439011+-76.442581+42.436908+-76.442464+42.436852+-76.442461+42.436332+-76.442441+42.433296+-76.442324+42.423228+-76.441685+42.414124+-76.441067+42.414115+-76.441066+42.396451+-76.439910+42.396010+-76.439910+42.395571+-76.439969+42.395138+-76.440085+42.394715+-76.440259+42.394307+-76.440487+42.393918+-76.440767+42.393551+-76.441098+42.393210+-76.441476+42.392898+-76.441897+42.392617+-76.442357+42.392372+-76.442853+42.392164+-76.443378+42.391995+-76.443928+42.391866+-76.444498+42.391780+-76.445082+42.391736+-76.445674+42.391562+-76.450374+42.391559+-76.450471+42.391332+-76.459526+42.390936+-76.473957+42.390935+-76.473980+42.390305+-76.499446+42.390304+-76.499484+42.390171+-76.506121+42.390169+-76.506283+42.390168+-76.508155+42.390152+-76.509340+42.390137+-76.510509+42.389790+-76.529924+42.389789+-76.530056+42.389780+-76.534793+42.389757+-76.535974+42.389757+-76.535997+42.389504+-76.551380+42.389167+-76.568331+42.389176+-76.568919+42.389227+-76.569503+42.389320+-76.570077+42.389454+-76.570637+42.389627+-76.571177+42.389839+-76.571691+42.390086+-76.572175+42.390366+-76.572625+42.390678+-76.573037+42.391017+-76.573405+42.391382+-76.573728+42.391768+-76.574002+42.392171+-76.574224+42.392589+-76.574392+42.393017+-76.574505+42.393450+-76.574562+42.402149+-76.575127+42.402250+-76.575133+42.415441+-76.575590+42.422763+-76.576053+42.422835+-76.576057+42.430971+-76.576394+42.432964+-76.576517+42.432992+-76.576519+42.445024+-76.577164+42.447655+-76.577333+42.447677+-76.577334+42.454534+-76.577730+42.454551+-76.577731+42.461389+-76.578090+42.465150+-76.578322+42.465198+-76.578325+42.466713+-76.578397+42.468096+-76.578462+42.479508+-76.579115+42.479960+-76.579110+42.480409+-76.579044+42.480852+-76.578917+42.481282+-76.578731+42.481697+-76.578488+42.482091+-76.578189+42.482462+-76.577839+42.482804+-76.577441+42.483115+-76.576997+42.483392+-76.576514+42.483632+-76.575996+42.483831+-76.575448+42.483989+-76.574876+42.484104+-76.574285+42.484175+-76.573682+42.484200+-76.573072%27%29%3B%3E%3B%29%3Bout%3B with timeout=180
+2022-03-28 10:42:24,148 INFO OSMnx Resolved overpass-api.de to 178.63.11.215
+2022-03-28 10:42:36,727 INFO OSMnx Downloaded 5,393.2kB from overpass-api.de
+2022-03-28 10:42:37,572 INFO OSMnx Saved response to cache file "cache\eaf833fc31bcc4042978772aabba2e18a7136f7e.json"
+2022-03-28 10:42:37,586 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:42:37,586 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:42:39,570 INFO OSMnx Created graph with 38184 nodes and 82339 edges
+2022-03-28 10:42:40,762 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:42:40,769 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:42:44,838 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:42:48,697 INFO OSMnx Created r-tree spatial index for 38184 geometries
+2022-03-28 10:42:51,733 INFO OSMnx Identified 28059 geometries inside polygon
+2022-03-28 10:42:53,479 INFO OSMnx Removed 10125 nodes outside polygon
+2022-03-28 10:42:53,479 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:42:54,003 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:42:56,416 INFO OSMnx Identified 6654 edge endpoints
+2022-03-28 10:43:03,274 INFO OSMnx Simplified graph: 28059 to 6654 nodes, 58904 to 16831 edges
+2022-03-28 10:43:03,311 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:43:04,162 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:43:05,021 INFO OSMnx Created r-tree spatial index for 6654 geometries
+2022-03-28 10:43:06,111 INFO OSMnx Identified 4367 geometries inside polygon
+2022-03-28 10:43:07,038 INFO OSMnx Removed 2287 nodes outside polygon
+2022-03-28 10:43:07,321 INFO OSMnx Removed 25 isolated nodes
+2022-03-28 10:43:07,912 INFO OSMnx Got largest weakly connected component (4258 of 4342 total nodes)
+2022-03-28 10:43:07,921 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:43:08,353 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:43:08,404 INFO OSMnx graph_from_polygon returned graph with 4258 nodes and 10518 edges
+2022-03-28 10:43:08,483 INFO OSMnx graph_from_place returned graph with 4258 nodes and 10518 edges
+2022-03-28 10:43:08,806 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:43:09,904 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:43:12,053 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:43:13,289 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=18 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:43:14,117 INFO OSMnx Created graph from node/edge GeoDataFrames
+2022-03-28 10:43:14,136 INFO OSMnx Projected graph with 4258 nodes and 10518 edges
+2022-03-28 10:43:14,255 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:43:15,152 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:43:15,903 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:43:18,000 INFO OSMnx Finished plotting the graph
+2022-03-28 10:44:27,081 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:44:27,853 INFO OSMnx Converted MultiDiGraph to undirected MultiGraph
+2022-03-28 10:44:27,896 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:44:27,982 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:44:28,864 INFO OSMnx Saved graph as shapefiles at "network-shape"
+2022-03-28 10:44:31,495 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:44:31,579 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:46:40,633 INFO OSMnx Retrieved response from cache file "cache\c17ad8d303536745d4004e8b587ba39427593e08.json"
+2022-03-28 10:46:40,718 INFO OSMnx Created GeoDataFrame with 1 rows from 1 queries
+2022-03-28 10:46:40,721 INFO OSMnx Constructed place geometry polygon(s) to query API
+2022-03-28 10:46:40,752 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:46:40,796 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:46:40,831 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:46:40,862 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:46:40,866 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:46:40,921 INFO OSMnx Retrieved response from cache file "cache\5feebdbd65e7e14c37048bddb64f4237e9a5f0c4.json"
+2022-03-28 10:46:40,924 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:46:40,924 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:46:41,414 INFO OSMnx Created graph with 10881 nodes and 22500 edges
+2022-03-28 10:46:41,813 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:46:41,819 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:46:43,211 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:44,380 INFO OSMnx Created r-tree spatial index for 10881 geometries
+2022-03-28 10:46:45,109 INFO OSMnx Identified 9875 geometries inside polygon
+2022-03-28 10:46:45,478 INFO OSMnx Removed 1006 nodes outside polygon
+2022-03-28 10:46:45,478 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:46:45,629 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:46:46,277 INFO OSMnx Identified 2075 edge endpoints
+2022-03-28 10:46:48,343 INFO OSMnx Simplified graph: 9875 to 2075 nodes, 20433 to 5456 edges
+2022-03-28 10:46:48,359 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:46:49,027 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:49,242 INFO OSMnx Created r-tree spatial index for 2075 geometries
+2022-03-28 10:46:49,359 INFO OSMnx Identified 754 geometries inside polygon
+2022-03-28 10:46:49,442 INFO OSMnx Removed 1321 nodes outside polygon
+2022-03-28 10:46:49,458 INFO OSMnx Removed 3 isolated nodes
+2022-03-28 10:46:49,523 INFO OSMnx Got largest weakly connected component (747 of 751 total nodes)
+2022-03-28 10:46:49,524 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:46:49,575 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:46:49,581 INFO OSMnx graph_from_polygon returned graph with 747 nodes and 1974 edges
+2022-03-28 10:46:49,608 INFO OSMnx graph_from_place returned graph with 747 nodes and 1974 edges
+2022-03-28 10:46:49,807 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:46:51,001 INFO OSMnx Converted MultiDiGraph to undirected MultiGraph
+2022-03-28 10:46:51,082 INFO OSMnx Created bbox 500 m from (37.791427, -122.410018): 37.795923601677465,37.78693039832253,-122.40432787612507,-122.41570812387492
+2022-03-28 10:46:51,122 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:46:51,158 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:46:51,202 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=10 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2022-03-28 10:46:51,229 INFO OSMnx Projected GeoDataFrame to epsg:4326
+2022-03-28 10:46:51,237 INFO OSMnx Requesting data within polygon from API in 1 request(s)
+2022-03-28 10:46:51,274 INFO OSMnx Retrieved response from cache file "cache\b8fda4e1a4cbb61c364e14c07beb4cd52cdfdbfc.json"
+2022-03-28 10:46:51,287 INFO OSMnx Got all network data within polygon from API in 1 request(s)
+2022-03-28 10:46:51,287 INFO OSMnx Creating graph from downloaded OSM data...
+2022-03-28 10:46:51,492 INFO OSMnx Created graph with 6106 nodes and 15420 edges
+2022-03-28 10:46:51,642 INFO OSMnx Added length attributes to graph edges
+2022-03-28 10:46:51,650 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:46:52,733 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:53,491 INFO OSMnx Created r-tree spatial index for 6106 geometries
+2022-03-28 10:46:53,897 INFO OSMnx Identified 5563 geometries inside polygon
+2022-03-28 10:46:54,137 INFO OSMnx Removed 543 nodes outside polygon
+2022-03-28 10:46:54,138 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:46:54,207 INFO OSMnx Begin topologically simplifying the graph...
+2022-03-28 10:46:54,628 INFO OSMnx Identified 2804 edge endpoints
+2022-03-28 10:46:56,309 INFO OSMnx Simplified graph: 5563 to 2804 nodes, 14250 to 8732 edges
+2022-03-28 10:46:56,319 INFO OSMnx Identifying all nodes that lie outside the polygon...
+2022-03-28 10:46:56,626 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:56,927 INFO OSMnx Created r-tree spatial index for 2804 geometries
+2022-03-28 10:46:56,974 INFO OSMnx Identified 741 geometries inside polygon
+2022-03-28 10:46:57,126 INFO OSMnx Removed 2063 nodes outside polygon
+2022-03-28 10:46:57,163 INFO OSMnx Removed 4 isolated nodes
+2022-03-28 10:46:57,255 INFO OSMnx Got largest weakly connected component (727 of 737 total nodes)
+2022-03-28 10:46:57,257 INFO OSMnx Truncated graph by polygon
+2022-03-28 10:46:57,698 INFO OSMnx Counted undirected street segments incident on each node
+2022-03-28 10:46:57,706 INFO OSMnx graph_from_polygon returned graph with 727 nodes and 2344 edges
+2022-03-28 10:46:57,740 INFO OSMnx graph_from_bbox returned graph with 727 nodes and 2344 edges
+2022-03-28 10:46:57,752 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:57,836 INFO OSMnx Removed 0 isolated nodes
+2022-03-28 10:46:57,855 INFO OSMnx Truncated graph by length-weighted network distance
+2022-03-28 10:46:57,859 INFO OSMnx graph_from_point returned graph with 391 nodes and 1214 edges
+2022-03-28 10:46:57,871 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:57,923 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:46:58,454 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:46:58,924 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:46:59,138 INFO OSMnx Finished plotting the graph
+2022-03-28 10:47:16,891 INFO OSMnx Begin plotting the graph...
+2022-03-28 10:47:17,145 INFO OSMnx Created edges GeoDataFrame from graph
+2022-03-28 10:47:17,680 INFO OSMnx Created nodes GeoDataFrame from graph
+2022-03-28 10:47:18,069 INFO OSMnx Finished plotting the graph
